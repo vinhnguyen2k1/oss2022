@@ -2,10 +2,7 @@
 
 int main() {
 
-    int n;
-    cout << "Nhap n: ";
-    cin >> n;
-    cout << "So Fibonacci thu " << n << " la: " << Fibonacci(n) << endl;
+    //Viết main
  
     system("pause");
     return 0;
